@@ -18,7 +18,7 @@ Here are the instructions to apply ReACC framework on the code completion task w
 
 ### 1. Pretrain a retriever
 
-Leverage [`microsoft/reacc-py-retriever`]() as a code-to-code retriever for python source codes.
+Leverage [`microsoft/reacc-py-retriever`](https://huggingface.co/microsoft/reacc-py-retriever) as a code-to-code retriever for python source codes.
 
 ### 2. Build an index for search
 
